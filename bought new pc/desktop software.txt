@@ -1,6 +1,0 @@
-{
-"VSCODE" : "code editor",
-"github Desktop" : "manage your git activity with GUI interface",
-"postman" : "manage http request on real time" ,
-"node.js" : "neccesary to work with npm and node",
-}
