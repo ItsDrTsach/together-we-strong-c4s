@@ -7,7 +7,8 @@ have fun!
 1. Clone the Repo to your Desktop
 2. Create a new Branch, name it something sensible in regards to your planned change (eg. _VSC extensions addition_)
 3. Edit you brach to your heart's desire
-4. Try to push/ publish the branch with github desktop, you will see that you cant push it to the Repo. __DON'T PANIC! that is normal__ 
+4. Try to push/ publish the branch with github desktop, you will see that you cant push it to the Repo.
+__DON'T PANIC! that is normal__ 
 * GitHub desktop will ask if you'd like to instead fork the Repo and publish your branch there. Do it.
 * When you Do it will ask wheter to fork for personnal use or to contribute. Choose to contribute like the generous soul you are.
 * This will fork the repo to your account, But when you choose to make a pull request it will make it to this Repo here, the OG Repo.
