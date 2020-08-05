@@ -1,4 +1,0 @@
-{
-"‪CORS Unblock‬" : "bypass the CORS error (not recomended to use often)",
-"‪Link to Text Fragment‬": "help you send links with sentence marked"
-}

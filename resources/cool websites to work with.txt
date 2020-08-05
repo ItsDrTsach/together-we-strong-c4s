@@ -1,4 +1,0 @@
-/// url : description
-{
-"https://overapi.com/javascript" : "all JS methos organized"
-}
