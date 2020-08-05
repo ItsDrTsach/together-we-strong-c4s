@@ -1,11 +1,14 @@
 # Keyboard Shortcuts
 
-* VSCODE
+* __VSCODE__
+
 A very popular code editor
-* github Desktop
+* __github Desktop__
+
 Manage your git activity with GUI interface
-* postman
+* __postman__
+
 Manage http request on real time
-* node.js
+* __node.js__
 Necessary to work with npm and node.
 Useful for importing modules unto your code.

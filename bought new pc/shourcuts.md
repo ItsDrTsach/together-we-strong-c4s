@@ -1,6 +1,6 @@
 # Keyboard Shortcuts
 
-* "windows + shift + v" : "capture specific part in your screen" ,
-* "windows + v" : "open clipboard, wiil save your copy history",
-* "windows + g" : "allow you to record the zoom meeting from your sude without premission"
+* __windows + shift + v__ - capture specific part in your screen" ,
+* __windows + v__ - open clipboard, will save your copy history",
+* __windows + g__ - allows you to record the zoom meeting from your sude without premission"
 
