@@ -12,7 +12,8 @@ __DON'T PANIC! that is normal__
 * GitHub desktop will ask if you'd like to instead fork the Repo and publish your branch there. Do it.
 * When you Do it will ask wheter to fork for personnal use or to contribute. Choose to contribute like the generous soul you are.
 * This will fork the repo to your account, But when you choose to make a pull request it will make it to this Repo here, the OG Repo.
-5. When you are done, make a pull request. Make it nice and descriptive so the Admins can more easily review and merge your contributions.
+5. When you are done, make a pull request.
+__Use the Label Addition__ and make it nice and descriptive so the Admins can more easily review and merge your contributions.
 
 תעשה לה clone לדסקטופ וצור בראנץ משלך. תערוך כאוות נפשך, וכשתנסה לעשות פוש לבראנץ אתה לא תוכל לעשות ישירות לריפו, זה יציע לך לעשות פורק. 
 תעשה פורק, ואז זה ישאל אותך אם לעשות פורק לשימוש עצמי או כדי לתרום, בחר לתרום.
