@@ -16,3 +16,6 @@ This and that
 
 ## HTML- HyperTextMarkupLanguage
 * [Check if an HTML file is valid](https://validator.w3.org/#validate_by_input)
+
+## GitHub
+* [Using MarkDown in GitHub eg. for README.md ](https://guides.github.com/features/mastering-markdown/)
