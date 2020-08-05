@@ -1,8 +1,7 @@
 # Keyboard Shortcuts
 
-### ‪CORS Unblock
+* __‪CORS Unblock__- 
 
-__Only use while needed,while developing!.__<!-- this will be bold -->
+__Only use while needed,while developing!.__
 It disables a security protocol to bypass the CORS error.
-### ink to Text Fragment
-Allows you to send links with sentence marked (highlighted)
+* __Link to Text Fragment__- Allows you to send links with sentence marked (highlighted)

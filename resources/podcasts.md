@@ -2,6 +2,6 @@
 
 <!-- 
 ## sub-Title (h2)
-*[description](link)
-### sub-Title (h3)
+* __bold title__ - description
+[link text](url)  this makes a link
  -->
