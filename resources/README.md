@@ -2,10 +2,10 @@
 This  is the section for different resources you can use while learning and working.
 
 ## Here You can find:
-### [New PC](together-we-strong-c4s/tree/editsAB/new-pc)  
+### [New PC](./new-pc)  
 Your One-stop-shop for a new coder or a new PC.  
 Contains:
-* [Downloads](DOCS/new-pc/Download.md)  
+* [Downloads](./new-pc/Download.md)  
 Get everything you need 
 to get started coding .
     * Desktop Software
