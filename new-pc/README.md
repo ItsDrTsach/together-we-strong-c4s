@@ -1,5 +1,5 @@
 # New Computer Section
-For new programmers or new computers.  
+For new coders or new computers.  
 Get everything you need for when you have a new computer and you need to get all that hot stuff you like to use when programming.
 
 ## Here You can find:
