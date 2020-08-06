@@ -5,7 +5,7 @@ This  is the section for different resources you can use while learning and work
 ### [New PC](./new-pc)  
 Your One-stop-shop for a new coder or a new PC.  
 Contains:
-* [Downloads](./new-pc/Download.md)  
+* [Downloads](../new-pc/Download.md)  
 Get everything you need 
 to get started coding .
     * Desktop Software
