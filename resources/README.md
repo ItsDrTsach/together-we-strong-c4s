@@ -2,7 +2,7 @@
 This  is the section for different resources you can use while learning and working.
 
 ## Here You can find:
-### [New PC](Docs/new-pc)  
+### [New PC](together-we-strong-c4s/tree/editsAB/new-pc)  
 Your One-stop-shop for a new coder or a new PC.  
 Contains:
 * [Downloads](DOCS/new-pc/Download.md)  
