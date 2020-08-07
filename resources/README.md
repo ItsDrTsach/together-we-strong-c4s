@@ -1,8 +1,9 @@
+<!-- FIX -->
 # Resources Section
 This  is the section for different resources you can use while learning and working.
 
 ## Here You can find:
-### [New PC](new-pc)  
+* [__youtubes__](youtubes.md)  
 Your One-stop-shop for a new coder or a new PC.  
 Contains:
 * [Downloads](new-pc/Download.md)  

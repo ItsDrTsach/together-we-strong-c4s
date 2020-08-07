@@ -1,3 +1,9 @@
+<!-- 
+TODO: distribute in appropriate places and delete this file.
+contacts->readme
+links->...we'll get it eventually
+ -->
+
 # Useful Links  in many topics
 
 ## Cyber4S Communities
