@@ -7,7 +7,7 @@ Ways to reach out to Cyber4s members of past and present.
 
 * [Course Repo](https://github.com/suvelocity/f4s-course)
 * [Slack](https://app.slack.com/client/T017XTMBHAS/C018AR5SNLU)
-* [Facebook](https://www.facebook.com/groups/615547515833414) someone fix this plz
+* [Facebook](https://www.facebook.com/groups/615547515833414) 
 
 ## Here You'll Find
 * [How to contribute to the wiki](#To-contribute-to-the-repo)  
