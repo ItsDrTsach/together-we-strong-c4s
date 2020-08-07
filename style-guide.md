@@ -60,7 +60,7 @@ but here, we do it this way:
 
 3. under the title comes a concise description of the purpose of th dir.
 
-4. add a table of contents. it's a h2 section titled "Here You Can Find".  
+4. add a legend. it's a h2 section titled "Here You Can Find".  
 under it a make a bullet list of the dir's items in bold with short explanations, using relative links as such:
 ```
 * [__file name__](file-name.extension)-  <!--two spaces fot new line-->  
@@ -101,15 +101,15 @@ anyway, to make a list:
     ```
     4. repeat as necessary.
     
-5. add  a table of contents.
+5. add  a legend before the sections
     1. add h2 header named "Here You Can Find".   
-    5. under it a make a bullet list of the list's sections names in bold, with short explanations, using relative links like so:
+    2. under it a make a bullet list of the all the list's sections' names in bold, with short explanations, using relative links like so:
 
     ```
     * [__section__](#section)-  <!--two spaces fot new line-->  
     many recipes for pumpkin
 
-    * [__another section__](another-section)-  <!--two spaces fot new line-->  
+    * [__another section__](#another-section)-  <!--two spaces fot new line-->  
     ways to slay vampires
     ```
 
@@ -119,55 +119,34 @@ anyway, to make a list:
 
 
 ## How to Write a Page
-first add a page title using h1
+1. first add a page title using h1
 and a short description of the page's contents:  
 `# Page title`  
 `This is a demonstrative page`
+2. if it's a list add sections 
+    1. add a section h2 header with a name describing it's content.  
+    `## Good Tips`
+    * don't make the name long, it should be concise.  
+    2. add a short description for the section  
+     `a few useful tips`
+    3. add links in bold, with short explanations, using relative links like so:
 
-then add a contents section like this:  
+    ```
+    * [__Water Bottle Light__](https://removeandreplace.com/wp-content/uploads/2013/06/helpful-tips-and-tricks-_33.jpg)-   <!--two spaces fot new line-->  
+    good tip for night
+
+    * [__ice bottle__](uhttps://removeandreplace.com/wp-content/uploads/2013/06/helpful-tips-and-tricks-_54.jpgrl)-  <!--two spaces fot new line-->  
+    good tip for summer
+
+    ```
+    4. repeat as necessary.
+3. then add a legend section after the page title, like this:  
 `## Here You can find:`  
-This section lists relative links to relevant contents.    
-* In a directory's README file it should link to the contents of the directory:
+    * In a directory's [README](#readme) file it should list the contents of the directory:
+    * In a [list](#list) .md file it should list sections of the list:
+        
+        ```
+        * [__Good Tips__](#good-tips)-   <!--two spaces fot new line-->  
+        some nice tips
 
-in
-* [__New PC__](new-pc)
-    Here you can find everything you need for when you have a new computer and you need to get all that hot stuff you like to use when programming.
-
-* [__Cheatsheets__](cheatsheet)
-    PDFs with useful information and handy tricks for many topics. 
-<!-- are cheatsheets all that different from shortcut page? discuss! -->
-
-* [__Resources__](resources)
-    This  is the section for different resources you can use while learning and working.
-
-## To contribute to the repo
-1. Clone the Repo to your Desktop.
-
-2. Create a new Branch, name it something sensible in regards to your planned change (eg. _VSC extensions addition_)
-
-3. Edit you branch to your heart's desire, while maintaining the structure and style.  
-__Please__ Make use of the [style guide](./style-guide.md).
-
-4. Try to push/ publish the branch with GitHub desktop, you will see that you can't push it to the Repo.
-__DON'T PANIC! that is normal__ 
-
-    * GitHub desktop will ask if you'd like to instead fork the Repo and publish your branch there. Do it.
-
-    * When you Do it will ask whether to fork for personal use or to contribute. Choose to contribute like the generous soul you are.
-
-    * This will fork the repo to your account, But when you choose to make a pull request it will make it to this Repo
-    here, the OG Repo.
-
-5. When you are done, make a pull request.
-    __Use the Label Addition__ if applicable or other labels appropriately, and make it nice and descriptive so the Admins can more easily review and merge your contributions. If your contribution relates to an open issue, please [link them together](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue).
-
-## Hebrew instructions 
-(copy somewhere that can deal with hebrew like word)
-1. עשה clone לריפו
-2 צור branch חדש, קרא לו בשם סביר, שיסביר את התרומה שלך (למשל addition to VSC extensions)
-3. ערוך את הbranch שלך ככל שתרצה (נא לשמור על המבנה והסגנון הקיימים)
-4. נסה לעשות  push/ publish לbranch שלך עם גיטהאב דסקטופ. אתה תראה שלא תוכל לדחוף אותו לריפו. בלי פאניקה! זה אמור לקרות.
-•	גיטהאב דסקטופ ישאל אותך אם תרצה במקום זאת לעשות fork לריפו ולעשות publish לbranch שלך שם. עשה זאת.
-•	כשתעשה כך הוא ישאל אותך אם לעשות fork לשימוש אישי או כדי לתרום. בחר לתרום כמו הנפש הנדיבה שהינך.
-•	כך תעשה fork לריפו לחשבונך, אך כשתבחר לעשות pull request היא תופנה לריפו המקורית שלנו כאן.
-5. כשסיימת, עשה  pull request. השתמש בlabel שנקראת addition לתוספות או בלייבלים אחרים אם הם מתאימים. ותוסיף תיאור כדי שנוכל למרג'ג' אותה יותר בקלות. אם היא קשורה לissue פתוח, אנא קשר אותה אליו (https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+        ```
