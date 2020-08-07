@@ -2,8 +2,19 @@
 
 repository of good insights. try not to add content that is in the course main repository. tips and tricks will be more than great. Please honour the holy [Style Guide](style-guide.md) have fun!
 
+## Cyber4S Communities
+Ways to reach out to Cyber4s members of past and present.
+
+* [Course Repo](https://github.com/suvelocity/f4s-course)
+* [Slack](https://app.slack.com/client/T017XTMBHAS/C018AR5SNLU)
+* [Facebook]() someone fix this plz
 
 ## Here You'll Find
+* [How to contribute to the wiki](#To-contribute-to-the-repo)  
+Step-by-b-step guide for contributing.
+
+* [How to Contribute (hebrew)](#Hebrew-instructions)  
+Step-by-b-step guide for contributing in hebrew. Copy and paste somewhere that can deal with hebrew like MicroSoft Word)
 
 * [__New PC__](new-pc/README.md)   
     Here you can find everything you need for when you have a new computer and you need to get all that hot stuff you like to use when programming.
@@ -11,6 +22,7 @@ repository of good insights. try not to add content that is in the course main r
 * [__Cheatsheets__](cheatsheet/README.md)  
     PDFs with useful information and handy tricks for many topics. 
 <!-- are cheatsheets all that different from shortcut page? I think that shortcuts will be for beginners  while cheatsheets are a tad more advanced. discuss! -->
+
 
 * [__Resources__](resources/README.md)  
     This  is the section for different resources you can use while learning and working.
@@ -20,8 +32,9 @@ repository of good insights. try not to add content that is in the course main r
 
 2. Create a new Branch, name it something sensible in regards to your planned change (eg. _VSC extensions addition_)
 
-3. Edit you branch to your heart's desire, while maintaining the structure and style.  
+3. Open the branch in VSC and edit you branch to your heart's desire, while maintaining the structure and style.  
 __Please__ Make use of the [style guide](./style-guide.md).
+* There is a useful option in VSC to preview your .md page as you work. you should be able to see it at the top-right of your workspace. try using ctrl+K+v
 
 4. Try to push/ publish the branch with GitHub desktop, you will see that you can't push it to the Repo.  
 __DON'T PANIC! that is normal__ 

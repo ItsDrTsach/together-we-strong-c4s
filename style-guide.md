@@ -1,7 +1,7 @@
 # Style Guide
 Here is the guide to editing and adding to the Repo.  
 The yellow words and boxes are MarkDown code snippets demonstrating how to write and edits different elements.
-
+* There is a useful option in VSC to preview your .md page as you work. you should be able to see it at the top-right of your workspace.try using ctrl+K+v.
 ## Here You'll Find
 * [Basic MarkDown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 A guide to Basic markdown used in this page.
