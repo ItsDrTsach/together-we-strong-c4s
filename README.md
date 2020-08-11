@@ -23,9 +23,11 @@ Step-by-b-step guide for contributing in hebrew. Copy and paste somewhere that c
     PDFs with useful information and handy tricks for many topics. 
 <!-- are cheatsheets all that different from shortcut page? I think that shortcuts will be for beginners  while cheatsheets are a tad more advanced. discuss! -->
 
-
 * [__Resources__](resources/README.md)  
     This  is the section for different resources you can use while learning and working.
+
+* [__Tutorials__](tutorials/README.md)  
+    Step by step tutorials for many subjects, written by us students.
 
 ## To contribute to the repo
 1. Clone the Repo to your Desktop.

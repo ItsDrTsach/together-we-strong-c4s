@@ -1,13 +1,14 @@
 # VS-Debugger
 
-* Add configuration => node.js
-* type
-* "program": "${workspaceFolder}\\index.js" =>  "program": "./index.js"
+* in VSC menu: Run => Add configuration => node.js
+* A launch.js file is created.
+* in it change:
+ "program": "${workspaceFolder}\\index.js" =>  "program": "./index.js" (the path to the file you want to debug)
 * Run and stop debugger - F5, shift + F5
 * DEBUG CONSOLE - the same like the console in chrome  
 * Mouse hover - you can just hover the variables to see their values
 * Watch list
-* common uses - debug a problematic point, debug the back.
+* common uses - debug a problematic point, debug the backend.
 
 # Resources
 
