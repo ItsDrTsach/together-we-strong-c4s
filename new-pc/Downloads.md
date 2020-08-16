@@ -1,4 +1,5 @@
 # Downloads 
+<!-- only add must haves! if it isnt essential add it to Downloads in the main dir! -->
 The most basic absolute must-have to get coding.  
 Just starting out? Good luck! You don't have to add it all at once, only get what you need as the course progresses.
 ## Here You Can Find
@@ -8,13 +9,10 @@ Just starting out? Good luck! You don't have to add it all at once, only get wha
 
 * [Chrome Addons ](#chrome-addons)
 
-* [Chrome Addons ](#Chrome-Addons)
-
 
 ## Desktop Software
 
-* [__VSCODE__](https://code.visualstudio.com/
-)  
+* [__VSCODE__](https://code.visualstudio.com/)  
 A very popular code editor
 
 * [__ZOOM__](https://zoom.us/download#download_client_title:~:text=Zoom%20Client%20for%20Meetings

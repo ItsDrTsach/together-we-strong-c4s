@@ -10,21 +10,35 @@ Ways to reach out to Cyber4s members of past and present.
 * [Facebook](https://www.facebook.com/groups/615547515833414) 
 
 ## Here You'll Find
-* [How to contribute to the wiki](#To-contribute-to-the-repo)  
-Step-by-b-step guide for contributing.
+* [How to contribute to the repo](#To-contribute-to-the-repo)  
+Step-by-step guide for contributing.
 
 * [How to Contribute (hebrew)](#Hebrew-instructions)  
-Step-by-b-step guide for contributing in hebrew. Copy and paste somewhere that can deal with hebrew like MicroSoft Word)
+Step-by-step guide for contributing in hebrew. Copy and paste somewhere that can deal with hebrew like Microsoft Word)
 
 * [__New PC__](new-pc/README.md)   
-    Here you can find everything you need for when you have a new computer and you need to get all that hot stuff you like to use when programming.
+    everything you need for when you have a new computer and you need to get started (strictly essentials).
+
+* [__Downloads__](Downloads.md)   
+    software, addons, extensions central.
+    * [Desktop Software](Downloads.md/#Desktop-Software)
+    * [VSC Addons](Downloads.md/#VSC-Extensions)
+    * [Chrome Addons](Downloads.md/#Chrome-Addons)
+
+* [__Resources__](resources/README.md)  
+    different resources you can use while learning and working.
+    * [Youtubes](resources/youtube.md)  
+    youtube Tutorials and other videos
+    * [Tutorials](resources/tutorials.md)  
+    good tutorials to learn with
+    * [links](resources/links.md)  
+    Useful Links to work with
+    * [Podcasts](resources/podcasts.md)   
 
 * [__Cheatsheets__](cheatsheet/README.md)  
     PDFs with useful information and handy tricks for many topics. 
 <!-- are cheatsheets all that different from shortcut page? I think that shortcuts will be for beginners  while cheatsheets are a tad more advanced. discuss! -->
 
-* [__Resources__](resources/README.md)  
-    This  is the section for different resources you can use while learning and working.
 
 * [__Tutorials__](tutorials/README.md)  
     Step by step tutorials for many subjects, written by us students.
