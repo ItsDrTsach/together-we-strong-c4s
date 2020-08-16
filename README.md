@@ -7,7 +7,7 @@ Ways to reach out to Cyber4s members of past and present.
 
 * [Course Repo](https://github.com/suvelocity/f4s-course)
 * [Slack](https://app.slack.com/client/T017XTMBHAS/C018AR5SNLU)
-* [Facebook]() someone fix this plz
+* [Facebook](https://www.facebook.com/groups/615547515833414) 
 
 ## Here You'll Find
 * [How to contribute to the repo](#To-contribute-to-the-repo)  
@@ -39,8 +39,8 @@ Step-by-step guide for contributing in hebrew. Copy and paste somewhere that can
     PDFs with useful information and handy tricks for many topics. 
 <!-- are cheatsheets all that different from shortcut page? I think that shortcuts will be for beginners  while cheatsheets are a tad more advanced. discuss! -->
 
-
-
+* [__Tutorials__](tutorials/README.md)  
+    Step by step tutorials for many subjects, written by us students.
 
 ## To contribute to the repo
 1. Clone the Repo to your Desktop.
