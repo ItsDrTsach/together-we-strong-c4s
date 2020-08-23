@@ -36,6 +36,10 @@ Manage http request on real time. _also_ available in-browser with a desktop age
 Necessary to work with npm and `node` commands.  
 Useful for importing modules unto your code.
 
+* [__ShareX__](https://getsharex.com/)    
+A good tool for screen-capturing.
+
+
 ## VSC Extensions  
 Can be installed from the web or in-VSC
 
