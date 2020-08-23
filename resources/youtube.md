@@ -1,7 +1,7 @@
 ## Useful Youtube Tutorials
 Channels you can refer to learn and improve your code.  
 It's alright to add different playlist by the same channel if they fit under different categories.
-PLease make links specific- link to a playlist if possible.
+Please make links specific- link to a playlist if possible, or a specific video.
 
 ## Here You Can Find
 * [General Programming](#General-Programming)  
