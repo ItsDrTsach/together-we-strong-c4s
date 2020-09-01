@@ -27,20 +27,17 @@ Step-by-step guide for contributing in hebrew. Copy and paste somewhere that can
 
 * [__Resources__](resources/README.md)  
     different resources you can use while learning and working.
-    * [Youtubes](resources/youtube.md)  
-    youtube Tutorials and other videos
-    * [Tutorials](resources/tutorials.md)  
-    good tutorials to learn with
-    * [links](resources/links.md)  
-    Useful Links to work with
-    * [Podcasts](resources/podcasts.md)   
-
+    * Youtubes
+    * Tutorials
+    * links
+    * Podcasts
+    
 * [__Cheatsheets__](cheatsheet/README.md)  
     PDFs with useful information and handy tricks for many topics. 
 <!-- are cheatsheets all that different from shortcut page? I think that shortcuts will be for beginners  while cheatsheets are a tad more advanced. discuss! -->
 
 
-* [__Tutorials__](tutorials/README.md)  
+* [__Student Tutorials__](tutorials/README.md)  
     Step by step tutorials for many subjects, written by us students.
 
 ## To contribute to the repo

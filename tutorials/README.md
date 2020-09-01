@@ -1,4 +1,4 @@
-# Tutorials
+# Student Tutorials
 Learn how to do things with tutorials written by students for students
 
 ## Here You can find:
