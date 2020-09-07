@@ -15,8 +15,9 @@ __highly recommended__
 An excellent resource to learn about how JS works practically. sign up and receive the lessons by mail.
 
 * [All JS methods organized](https://overapi.com/javascript)
-
-* [Website for using REGEX](https://www.rexegg.com/regex-quickstart.html)
+### REGEX
+* [using REGEX in js](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+* [reference for using REGEX](https://www.rexegg.com/regex-quickstart.html)
 
 ## HTML
 * [Check if an HTML file is valid](https://validator.w3.org/#validate_by_input)
