@@ -1,9 +1,16 @@
 # To contribute to the repo
 
 # Table of Contents 
+* [Basic Structure](#basic-structure)
 * [To Add a Link](#add-a-link)
 * [TO Add a File](#add-a-file)
 * [Work with GitHub Desktop](#Github-Desktop)
+
+# Basic Structure
+the Repo's basic structure is like this
+[diagram](teach/Repo%20Diagram.png)
+
+
 
 # Add a Link
 1. go to the repo you wan to edit.
