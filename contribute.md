@@ -23,7 +23,8 @@ add a good description to what you did and click "propose changes"
 ![submit change](teach/bylink/4submit_change.png)
 1. here you can see the repo has been forked to your account.
 you can review your changes then click "create pull request" to submit it.
-![pull request](teach/bylink/5pull_request.png)
+![pull request](teach/bylink/5pull-request.png)
+
 1. an admin should shortly review and merge your changes.
 
 # Add a File
