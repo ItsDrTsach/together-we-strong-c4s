@@ -11,3 +11,5 @@ Useful Links  in many topics
 ## SQL 
 * [Draw SQL](https://drawsql.app/) 
 Make ERDs for sql databases easily
+* [SQL Query functions] (https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+Usefull functions to make better queries
