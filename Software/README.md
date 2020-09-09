@@ -13,5 +13,5 @@ Resources to learn from and use while coding.
   
 * [Networking](networking) 
   
-* [Projects](projects) 
+* [Project Management](projects) 
   
