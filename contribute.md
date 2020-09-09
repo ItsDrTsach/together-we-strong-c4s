@@ -6,9 +6,12 @@
 * [TO Add a File](#add-a-file)
 * [Work with GitHub Desktop](#Github-Desktop)
 
-# Basic Structure
-the Repo's basic structure is like this
-![diagram](teach/Repo%20Diagram.png)
+# Structure
+the Repo's basic structure is like this:  
+
+![diagram](teach/Repo%20Diagram%20-%20new.png)
+The "start" is the repo's main __README__ file, that you will see when you come into the repo.  
+In it you'll find links to the 3 main sub-folders and some general things we decided to keep handy.  
 
 
 
