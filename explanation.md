@@ -15,7 +15,7 @@ in the [ ] is what will be displayed,
 in ( ) here is an internal link to a # header, which links to the # header  with the text "github". 
 -->
 * [General Computer Skill](#general-computer-skill)
-<!-- spaces must be either '-' or '_' -->
+<!-- spaces must be either '-' (reccomended) or '%20' -->
 
 * [Glitch](#gLItCh)
 <!-- it's not case-sensitive -->
@@ -33,7 +33,7 @@ you can use either:
 or
 [title](./sub-dir/name-of-the-file.fileEnd)
 
-'./' signifying it is in the same directory as this file (explanation.md), then the name of the file (with the .s suffix). 
+'./' signifying it is in the same directory as this file (explanation.md), then the name of the file (with the .whatever suffix). 
 it is similar to how you write it in javascript or the cmd terminal.
  -->
 
