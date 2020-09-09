@@ -1,0 +1,170 @@
+1. נחליף את התוכן של ה
+package.json 
+שנמצא בתקיה הראשית ל:
+{
+  "name": "starter-cra-and-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
+    "express": "^4.17.1",
+    "concurrently": "^5.3.0",
+    "http-proxy-middleware": "^1.0.5"
+  },
+  "scripts": {
+    "start": "npm run development",
+    "development": "NODE_ENV=development concurrently --kill-others \"npm run client\" \"npm run server\"",
+    "production": "npm run build && NODE_ENV=production npm run server",
+    "server": "node server/server.js",
+    "client": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "license": "MIT"
+}
+
+ולאחר מכן נעביר אליו תחת ה
+dependencies
+ את ה
+dependencies  
+שיש לנו ב
+client.
+
+2. פתיחת תקיה חדשה אליה נעתיק את כל מה שהרפוסיטורי שלנו מכיל.
+
+3. נעביר את התקיה 
+public  
+ואת התקייה
+ src 
+שבתוך הקליינט  למחוץ לקליינט.
+
+4. לתקיית 
+src 
+נוסיף קובץ 
+setupProxy.js 
+שיכיל את הקוד הבא:
+
+const { createProxyMiddleware } = require("http-proxy-middleware");
+
+
+module.exports = function(app) {
+  app.use(
+    "/api",
+    createProxyMiddleware({
+      target: "http://localhost:3001"
+    })
+  );
+};
+
+
+
+5. מהתיקיית סרבר יש למחוק הכל חוץ מהקובץ 
+data.json 
+שאותו יש להוציא לתקיה הראשית ומהסרבר הראשי שלנו שישאר בתקיה שלו. 
+
+6.  לשנות את השם של הסרבר ל
+server.js 
+.
+
+7. לקובץ סרבר שלנו נוסיף אחרי ההגדרה של  
+app 
+את הפונקציה הבאה:
+
+function checkHttps(request, response, next) {
+    // Check the protocol — if http, redirect to https.
+    if (request.get("X-Forwarded-Proto").indexOf("https") != -1) {
+      return next();
+    } else {
+      response.redirect("https://" + request.hostname + request.url);
+    }
+  }
+  
+  app.all("*", checkHttps)
+
+8. נחליף את ה 
+app.listen 
+שלנו בכל הדבר הבא:
+
+
+let port;
+console.log("❇️ NODE_ENV is", process.env.NODE_ENV);
+if (process.env.NODE_ENV === "production") {
+  port = process.env.PORT || 3000;
+  app.use(express.static(path.join(__dirname, "../build")));
+  app.get("*", (request, response) => {
+    response.sendFile(path.join(__dirname, "../build", "index.html"));
+  });
+} else {
+  port = 3001;
+  console.log("⚠️ Not seeing your changes as you develop?");
+  console.log(
+    "⚠️ Do you need to set 'start': 'npm run development' in package.json?"
+  );
+}
+
+// Start the listener!
+const listener = app.listen(port, () => {
+  console.log("❇️ Express server is running on port", listener.address().port);
+});
+
+9. לשים לב שהוגדר בפונקציה הקודמת פורט אז אם הוגדר לפני יש למחוק.
+
+
+10. לתקייה הראשית נוסיף קובץ בשם 
+watch.json 
+שיכיל:
+{
+    "install": {
+      "include": [
+        "^package\\.json$",
+        "^\\.env$"
+      ]
+    },
+    "restart": {
+      "exclude": [
+        "^public/",
+        "^src/"
+      ],
+      "include": [
+        "^server/",
+        "^watch\\.json$"
+      ]
+    },
+    "throttle": 100
+  }
+
+11. נמחק את התקיית 
+client.
+
+12. נמחק את כל הטסטים ונעלה לגיטאהב כפאבליק.
+
+13. ב
+glitch 
+נעשה 
+Import 
+מגיטהב עם הקישור לרפוסיטורי.
+
+
+
+

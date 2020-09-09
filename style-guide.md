@@ -22,14 +22,13 @@ in the end-dirs there will be an .md file called README.md and all the other fil
 
 
 * README-  
-represents the subject of the end dir and will contain the references to all the resources.
-    
-    * [Template README](template.md) - copy and edit
-    * [explanation](explanation.md) - explained and commented. 
-Each directory has a `README.md` file.  
-It is a markdown file which acts as the main page of the dir.  
-it explains its purpose and point and links to all the content in the dir, be it files, or other dirs.  
-READMEs should be Made like [so](#readme).
+Every End-directory has a `README.md` file.  
+It is a markdown file which acts as the main page of the dir.
+it explains its purpose and points with links to the different resources the directory has.
+
+    * [Template](./template.md)- just copy and edit
+    * [example README](./template.md)- how it should looks  
+    * [explained & commented](./explanation.md)- how it works  
 
 
 * files-  
