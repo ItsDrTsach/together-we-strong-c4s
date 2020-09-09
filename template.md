@@ -9,6 +9,6 @@ short description of the directory's subject
 * [subject2](#subject2) 
 
 # Subject
-* [outer resource](http://...)  <!-- note we must have 2 spaces here for a newline-->
+* [outer resource](http://...)  <!-- note we must have 2 spaces here for a newline-->  
 short description if required
 * [local resource](./resourceName.someFile)
