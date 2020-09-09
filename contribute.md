@@ -22,10 +22,21 @@ you can also use the 'search file' button.
 
 1. click the edit (pencil) button.
 ![click edit](teach/bylink/2click_edit.png)
-1. you should see a similar message to the one in blue.
-edit as you see fit.
+1. You should see a similar message to the one in blue.
 ![edit file](teach/bylink/3editing_file.png)
-1. when you are finished, scroll down to this section.  
+Add your link.  
+A link to an ouside site looks like:
+    * [Google](google.com)  
+    A search engine  
+
+    And you write it like:
+    ````
+    * [Google](https://google.com)    
+    A search engine
+    ````
+    Notice after the () and before the newline I put 2 spaces, otherwise it would continue on the same line.
+
+5. when you are finished, scroll down to this section.  
 add a good description to what you did and click "propose changes"
 ![submit change](teach/bylink/4submit_change.png)
 1. here you can see the repo has been forked to your account.
