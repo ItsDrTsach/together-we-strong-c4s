@@ -9,6 +9,6 @@ short description of the directory's subject
 * [subject2](#subject2) 
 
 # Subject
-* [outer resource](https://account.cyber.games/downloads/)  <!-- note we must have 2 spaces here for a newline-->  
+* [Link to install CyberGame](https://account.cyber.games/downloads/)  <!-- note we must have 2 spaces here for a newline-->  
 CyberGame installer
 * [local resource](./resourceName.someFile)
