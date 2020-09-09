@@ -1,4 +1,4 @@
-# Atlas Guide
+## Atlas Guide
 
 # Table Of Contents
 * [Sign Up](#Sign%20Up)
