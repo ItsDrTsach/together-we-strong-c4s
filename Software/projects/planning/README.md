@@ -14,6 +14,6 @@ short description if required
 
 * [local resource](./resourceName.someFile)
 
-* [Trello](https://trello.com/)
+* [Trello](https://trello.com/)  
 organise your tasks and projects visually, a sort of super to-do list
 
