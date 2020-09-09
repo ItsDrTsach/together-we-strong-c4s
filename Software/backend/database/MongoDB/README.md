@@ -17,7 +17,7 @@ Document databases are usually categorized under the NoSQL umbrella term.
 
 # Platform
 * The recommended paltfrom to use is [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-* [Atlas Guide](./AtlasGuide)
+* [Atlas Guide](AtlasGuide.md)
 * [Combine with Node.js](./AtlasWithNode)
 
 # Repositories
