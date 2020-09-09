@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 <!-- press ctrl+K then V to open a preview of the MarkDown file  -->
-=======
->>>>>>> Stashed changes
 # Page Main Title 
 short description of the directory's subject
 
@@ -14,4 +11,9 @@ short description of the directory's subject
 # Subject
 * [outer resource](http://...)  
 short description if required
+
 * [local resource](./resourceName.someFile)
+
+* [Trello](https://trello.com/)
+organise your tasks and projects visually, a sort of super to-do list
+
