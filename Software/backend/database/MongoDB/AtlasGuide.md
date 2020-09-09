@@ -1,14 +1,14 @@
-## Atlas Guide
+# Atlas Guide
 
-# Table Of Contents
+## Table Of Contents
 * [Sign Up](#Sign%20Up)
 * Step 2
 
-# Sign Up
+## Sign Up
 * Enter [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and sign up.
 * You can use either your google account and sign up with a new one.
 
-# Starting A Cluster
+## Starting A Cluster
 * Once you've created and logged into your account, Atlas will recommend creating a cluster: ![start](files/57.png)
 
 * Choose AWS as the provider and Frankfurt as the region, and create a cluster.
