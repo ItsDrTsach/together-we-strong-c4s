@@ -6,7 +6,7 @@ short description of the directory's subject
 
 * [subject](#subject) 
 
-* [subject2](#subject2) 
+* [another subject](#another-subject) 
 
 # Subject
 * [outer resource](http://...)  <!-- note we must have 2 spaces here for a newline-->  
