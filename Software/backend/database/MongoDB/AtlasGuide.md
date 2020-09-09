@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 * [Sign Up](#Sign%20Up)
-* Step 2
+* [Starting A Cluster](#Starting%20A%20Cluster)
 
 ## Sign Up
 * Enter [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and sign up.
