@@ -12,7 +12,7 @@ Ways to reach out to Cyber4s members of past and present.
 # Here You'll Find
 * [How to contribute to the repo](contribute.md)  
 Step-by-step guide for contributing.
-* [Style guide](contribute.md)  
+* [Style guide](style-guide.md)  
 an explanation of the way the we want the repo to look.
 * [template readme](template.md)  
 if you need it.
