@@ -12,7 +12,7 @@ An explanation of the Repo's intended structure.
 Rules to follow when adding or editing a README file.
 * [Write a tutorial yourself](#writing-md-tutorials)  
 write a tutorial yourself and add it to the repo.
-* [Adding files](#add_a_file)  
+* [Adding files](#add-a-file)  
 write a tutorial yourself and add it to the repo.
 
 # Structure
