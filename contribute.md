@@ -8,7 +8,7 @@
 
 # Basic Structure
 the Repo's basic structure is like this
-![diagram](teach/Repo%20Diagram.png)
+![diagram](teach/Repo%20Diagram%20-%20new.png)
 
 
 
