@@ -9,6 +9,9 @@ Ways to reach out to Cyber4s members of past and present.
 * [Slack](https://app.slack.com/client/T017XTMBHAS/C018AR5SNLU)
 * [Facebook](https://www.facebook.com/groups/615547515833414) 
 
+# Repo Structure
+![diagram](teach/Repo%20Diagram%20-%20new.png)
+
 # Here You'll Find
 * [How to contribute to the repo](contribute.md)  
 Step-by-step guide for contributing.
