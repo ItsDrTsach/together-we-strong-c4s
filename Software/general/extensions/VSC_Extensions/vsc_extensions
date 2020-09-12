@@ -1,0 +1,75 @@
+## VSC Extensions  
+Can be installed from the web or in-VSC
+
+* [__Todo Tree__](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)  
+Use custom tags in comments to mark like tasks  TODO, Fix, ADD etc. Not vital by any means, but it might prove very useful.  
+Tasks will can be displayed on a sidebar and they can be accessed, sorted, or even be highlighted in-code!
+
+* [__Auto Rename Tag__]
+Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+
+* [__Code Spell Checker__]
+A basic spell checker that works well with camelCase code.
+
+The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
+
+* [__Color Highlight__]
+This extension styles css/web colors found in your document.
+
+
+* [__Debugger For Chrome__]
+A VS Code extension to debug your JavaScript code in the Google Chrome browser, or other targets that support the Chrome DevTools Protocol.
+
+* [__DotENV__]
+A port of DotENV for vscode.
+
+
+* [__ES7 React/Redux__]
+This extension provides you JavaScript and React/Redux snippets in ES7 with Babel plugin features for VS Code
+
+
+
+* [__IntelliSense for CSS class names in HTML__]
+A Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element.
+
+
+* [__Live Server__]
+Launch a local development server with live reload feature for static & dynamic pages. 
+
+* [__Prettier - Code formatter__]
+Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+JavaScript · TypeScript · Flow · JSX · JSON 
+CSS · SCSS · Less 
+HTML · Vue · Angular 
+GraphQL · Markdown · YAML 
+
+* [__Rainbow Brackets__]
+Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets. This is particularly useful for Lisp or Clojure programmers, and of course, JavaScript, and other programmers.
+
+The isolated right bracket will be highlighted in red.
+
+* [__REST Client__]
+REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+
+* [__Simple React Snippets__]
+The essential collection of React Snippets and commands.
+
+
+
+* [__TabNine__]
+This is the Visual Studio Code TabNine client, advanced AI based autocomplete for all programming languages. TabNine Indexes your entire project by reading your .gitignore or others, and determines which files to index.
+
+Enter long variable names using minimal keystrokes and leverage a mnemonic completion engine.
+Zero configuration. TabNine works out of the box.
+Highly responsive: Produces a list of suggestions in less than 10 milliseconds on average.
+TabNine is part of Codota
+
+
+
+
+* [__vscode-icons__]
+Bring icons to your Visual Studio Code
+
+
+
