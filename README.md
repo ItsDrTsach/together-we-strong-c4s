@@ -11,6 +11,18 @@ Ways to reach out to Cyber4s members of past and present.
 
 # Repo Structure
 ![diagram](teach/Repo%20Diagram%20-%20new.png)
+# Repo responsibility
+* Chrome & vs extension - Tal piven
+* REST API - Tomer Babila
+* Network - Alon Zuckerman
+* REACT - Itay Sasson
+* Data bases -  Roy shnitzer & omri zilberstein
+* JavaScript - Liam kless
+* Style - Guy leifer
+* Project standart and management - Nitsan haim
+* GUI ? Mouse - Gal Trudel
+* Testing - Dror Maman
+* How to Github - Michael 
 
 # Here You'll Find
 * [How to contribute to the repo](contribute.md)  
