@@ -39,3 +39,9 @@ there you will find summaries from classes made by students.
 
 * [declerative programming](./Summaries-from-students/declerative-programming.js)
 here you will find JS methods and the way we build them in class
+
+* [functions](./Summaries-from-students/function)
+
+* [if/else](./Summaries-from-students/if-else)
+* [loops](./Summaries-from-students/loops)
+
