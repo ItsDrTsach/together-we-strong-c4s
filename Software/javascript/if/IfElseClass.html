@@ -1,0 +1,115 @@
+<!-- @format -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      //   // אופרטורים:
+
+      //   //   assingn and reassi
+
+      //   let y = 6;
+      //   y = 7;
+      //   let x = 6;
+      //   y = 7 + x;
+      //   y++; //14
+      //   y--; //13
+      //   console.log(y);
+      //   console.log(typeof y); //number
+      //   y += "3";
+      //   console.log(y); // 133
+      //   console.log(typeof y); //string
+
+      //   let str = "text";
+      //   str += "something";
+      //   console.log(str); //textsomething
+
+      //   //   if/else:
+
+      //   if (true) {
+      //     //תמיד נכון
+      //     console.log(true);
+      //   }
+
+      //   if (7 > 5) {
+      //     console.log(5 > 7); //false
+      //   }
+      //   let j = 5;
+      //   let i = 5;
+      //   if (j > i) {
+      //     console.log(true); // לא ייכנס לכאן כי התנאי לא נכון
+      //   } else {
+      //     // אם התנאי לא מתקיים הוא נכנס לפה
+      //     console.log(false);
+      //   }
+
+      //   // סימני שוויון:
+
+      //   //   x==y ממיר אותם לסטרינג ובודק אם הם שווים
+      //   //   x===y בודק אם הם שווים באמת! כולל אותו סוג
+
+      //   if (!(j !== i)) {
+      //     // אפשר גם לשים סימן קריאה מבחוץ שיהפוך את הפעולה
+      //     console.log(true);
+      //   } else {
+      //     console.log(false);
+      //   }
+
+      //   //   תנאים:
+      //   // 1)        || או-או. אם אחד מהתנאים נכונים
+      //   // 2)        && גם וגם. רק אם שני התנאים נכונים
+
+      //   if ((j = i && j > 4 && i > 3) || i > 10) {
+      //     console.log(true);
+      //   } else {
+      //     console.log(false);
+      //   }
+
+      //   if else:    אם הוא לא עומד בתנאי הראשון הוא הולך לתנאי השני וכן הלאה.. אם לא עומד בכולם הולך ל"אלס" האחרון.
+
+      //   let x = 5;
+      //   let y = 6;
+
+      //   if (x > 10) {
+      //     console.log(true);
+      //   } else if (x > 8) {
+      //     console.log("if else 1");
+      //   } else if (x > 7) {
+      //     console.log("if else 2");
+      //   } else {
+      //     console.log("else");
+      //   }
+
+      // סינטקס אחר לאיף אלס
+
+      let x = 5 > 4 ? "true" : "false";
+
+      //   אותו דבר כמו:
+      //   if (5 > 4) {
+      //     x = "true";
+      //   } else {
+      //     x = "false";
+      //   }
+      //   console.log(x); // true
+
+      // הטבלא של ניר בסינטקס החדש:
+
+      document.write('<div id="row">123</div>');
+      let estimatedTime = 5;
+      let actualTime = 6;
+      let div = document.getElementById("row");
+      div.style.backgroundColor = actualTime > estimatedTime ? "red" : "green";
+
+      //   אותו דבר כמו זה :
+      //     if (actualTime > estimatedTime) {
+      //         div.style.backgroundColor = 'red'
+      //     } else {
+      //         div.style.backgroundColor = 'green'
+      //     }
+    </script>
+  </body>
+</html>
