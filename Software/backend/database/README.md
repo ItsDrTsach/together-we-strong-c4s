@@ -12,6 +12,6 @@ short description of the directory's subject
 * [subject2](#subject2) 
 
 # SQL
-* [How ndexingI works](https://chartio.com/learn/databases/how-does-indexing-work/)  
+* [How Indexing works](https://chartio.com/learn/databases/how-does-indexing-work/)  
 A basic explanation
 * [local resource](./resourceName.someFile)
