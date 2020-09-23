@@ -15,4 +15,4 @@ CyberGame installer (Only for Windows)
 
 # Cyber Stories
 
-- [Norsk Hydro Attack](cyber-stories/aluminum.pdf)
+- [Norsk Hydro Attack](cyber_stories/aluminum.pdf)
