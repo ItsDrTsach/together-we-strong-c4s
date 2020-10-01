@@ -12,6 +12,8 @@ Here you'll find nice tools and content that will help you plan and make your pr
 ## Linting
 * [ESlint6](https://www.npmjs.com/package/eslint)  
 The official code linter of our course.
+I really recommend using this [short walkthrough](https://www.youtube.com/watch?v=mfGkKlMDfwQ) to install eslint, but for those in a hurry i noted the basics below<br/>
+### Basic installation guide
 Download the package using
  ````
  npm install eslint --save-dev  
@@ -20,7 +22,7 @@ Download the package using
 When the package is installed, run the snippet below, which will start configuratin
 
  ````
- 'npm install eslint --save-dev'  
+ eslint --init  
  
  ````
 Answer the several question using your common sence.  
