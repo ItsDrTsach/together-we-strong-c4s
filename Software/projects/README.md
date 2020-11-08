@@ -26,7 +26,7 @@ When the package is installed, run the snippet below, which will start configura
 ### !!! Linting React !!!
 note that using ESLint in a `create-react-app` project requires a bit of a different approach. Use this [helpful guide](./linting/eslintForCRA.md )
  ```
- eslint --init  
+ npx eslint --init  
  ```
 Answer the several question using your common sence.  
 Then go to `.eslintrc` file and copy the following rules:
