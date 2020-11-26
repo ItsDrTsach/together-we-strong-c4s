@@ -23,5 +23,8 @@ This is good for job interviews,
 - [Docker](docker.md) -  
 Widely used way to create multi-layered services that can work independently and orchestrating their combined operations. 
 
+- [Google Compute Engine](ComputeEngine.md) -  
+Launch your own highly configurable VM to do what you like with. 
+
 ## Guides
 guides make by us for us. 
