@@ -1,6 +1,10 @@
 # Cyber4s
 
-repository of good insights. try not to add content that is in the course main repository. tips and tricks will be more than great. Please honour the holy [Style Guide](style-guide.md) have fun!
+repository of good insights. 
+
+try not to add content that is in the course main repository. 
+
+tips and tricks will be more than great. Please honour the holy [Style Guide](style-guide.md) and have fun!
 
 ## Cyber4S Communities
 Ways to reach out to Cyber4s members of past and present.
