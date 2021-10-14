@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 <!-- press ctrl+K then V to open a preview of the MarkDown file  -->
-=======
->>>>>>> Stashed changes
 # Page Main Title 
 short description of the directory's subject
 
